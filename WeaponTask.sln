@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTask6", "HomeTask6\HomeTask6.csproj", "{009B201F-6E65-40D9-86EC-0B0506A42F1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeTask6", "HomeTask6\HomeTask6.csproj", "{009B201F-6E65-40D9-86EC-0B0506A42F1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weapon", "Weapon\Weapon.csproj", "{5A634978-C302-42E9-A1F5-0B435651E02B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeaponDLL", "Weapon\WeaponDLL.csproj", "{5A634978-C302-42E9-A1F5-0B435651E02B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

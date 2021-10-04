@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Weapon\Weapon.csproj" />
+    <ProjectReference Include="..\Weapon\WeaponDLL.csproj" />
   </ItemGroup>
 
 </Project>
